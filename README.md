@@ -62,8 +62,8 @@ This challenge involves converting an album review from a Google Document into m
     ![Creating a new file](docs/challenge-create-new-file.png)
 
 5. Open `myFirstWebpage.html` by double-clicking it. You should have an empty file. 
-6. It's time to start writing your HTML page. Using [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Anatomy_of_an_HTML_document) as a reference, create the outline of your HTML document. Your HTML should look the same as the example provided, and have an `html`, `head`, and `body` tag. Don't forget to close your tags. Every tag should be written once with no slash, and then once with a slash. This is commonly referred to as opening and closing tags. For example: `<body></body>`
-7. You should now have the basics of an HTML page. Let's test if it works, by right-clicking on your page in the VS Code Explorer, and clicking `Open with Live Server`. This should pop open your browser, and will either show nothing, or a broken image if you copied and pasted the example.
+6. It's time to start writing your HTML page. Using [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Anatomy_of_an_HTML_document) as a reference, create the outline of your HTML document. Your HTML should look the same as the example provided, and have an `html`, `head`, and `body` tag. If you copy and pasted the code, remove the `<img src="images/firefox-icon.png" alt="My test image">` element. Don't forget to close your tags. Every tag should be written once with no slash, and then once with a slash. This is commonly referred to as opening and closing tags. For example: `<body></body>`
+7. You should now have the basics of an HTML page. Let's test if it works, by right-clicking on your page in the VS Code Explorer, and clicking `Open with Live Server`. This should pop open your browser, and will either show nothing.
 
     ![open with live server](docs/challenge-open-with-live-server.png)
 
