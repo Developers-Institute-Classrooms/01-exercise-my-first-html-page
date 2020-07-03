@@ -43,10 +43,9 @@ Search engines and other tools can read HTML, and derive meaning from the HTML t
 
 ## Getting Started
 
-1. Accept the challenge with the challenge link from the class notes.
-2. `clone` to your local computer using VS Code or the Terminal.
-3. Read the challenge instructions and get started.
-4. The code for this challenge should go into `/Submission/static/js/script.js`.
+1. `clone` this repository to your local computer using VS Code or the Terminal.
+2. Read the challenge instructions and get started.
+3. The code for this challenge should go into `/Submission/static/js/script.js`.
 
 ## Challenge Instructions
 
