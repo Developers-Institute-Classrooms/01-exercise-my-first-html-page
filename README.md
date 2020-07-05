@@ -4,7 +4,7 @@ Create your first website using HTML
 
 **Contents**
 - [01 Challenge - My first website](#01-challenge---my-first-website)
-  - [Learning Outcomes](#learning-outcomes)
+  - [Summative Learning Outcomes](#summative-learning-outcomes)
   - [Challenge Brief](#challenge-brief)
   - [Rationale](#rationale)
   - [Getting Started](#getting-started)
@@ -15,7 +15,7 @@ Create your first website using HTML
 
 ---
 
-## Learning Outcomes
+## Summative Learning Outcomes
 
 * LO6 - Use software development standards to implement a user interface.
 
