@@ -1,31 +1,28 @@
-const fs = require("fs");
-const crypto = require("crypto");
+const fs = require('fs');
+const crypto = require('crypto');
 
 const md5 = (filePath) => {
   if (fs.existsSync(filePath)) {
     const file = fs.readFileSync(filePath);
-    const hash = crypto.createHash("md5").update(file).digest("hex");
+    const hash = crypto.createHash('md5').update(file).digest('hex');
     return hash;
   } else {
-    console.error("Invalid file path");
+    console.error('Invalid file path');
     return null;
   }
 };
 
-console.log("Running feedback check ...");
+console.log('Running feedback check ...');
 
 // get expected feedback file hash
-const hash = require("./feedback-hash.json").hash;
+const hash = require('./feedback-hash.json').hash;
 
 // md5 the current feedback file (hopefully updated by students)
-const studentFeedbackHash = md5("./feedback.md");
+const studentFeedbackHash = md5('./feedback.md');
 
-// if hashes match, the file was not changed
-if (studentFeedbackHash == hash || !studentFeedbackHash) {
-  console.error("Please answer the questions in the feedback file.");
-  process.exit(1);
-} else {
-  console.log("- Feedback file changed.");
-  console.log("Feedback check passed.");
-  process.exit(0);
-}
+test('feedback file should be changed', () => {
+  // if hashes match, the file was not changed
+  const feedbackSubmitted = studentFeedbackHash && studentFeedbackHash != hash;
+
+  expect(feedbackSubmitted).toBe(true);
+});
