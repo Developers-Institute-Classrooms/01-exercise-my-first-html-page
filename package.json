@@ -1,7 +1,6 @@
 {
   "name": "01-exercise-my-first-website",
   "author": "Developers Institute",
-  "license": "SEE LICENCE IN LICENCE.md",
   "version": "1.0.0",
   "scripts": {
     "test": "jest --verbose"
