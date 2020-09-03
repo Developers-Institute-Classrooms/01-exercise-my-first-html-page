@@ -26,9 +26,10 @@ Search engines and other tools can read HTML, and derive meaning from the HTML t
 
 ## Getting Started
 
-1. `clone` this repository to your local computer using VS Code or the Terminal.
-2. Read the exercise instructions completely before getting started.
-3. The code for this exercise should go into `/Submission/static/js/script.js`.
+1. Accept the exercise with the exercise link from the class notes.
+2. `clone` to your local computer using VS Code or the Terminal.
+3. Read the exercise instructions completely before getting started.
+4. The code for this exercise should go into the `/Submission/` folder.
 
 ## Instructions
 
