@@ -55,7 +55,7 @@ This exercise involves converting an album review from a Google Document into me
    ![cursor inside body tag](docs/exercise-cursor.png)
 
 9. Now it's time to write your HTML. Copy and paste the text from the Google Document into your HTML file. Then markup your text using HTML, using appropriate HTML tags to match the content type of the text.
-10. You should reference today's material on [W3Schools](https://www.w3schools.com/tags/default.asp) and [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to figure out what HTML tags you need.
+10. You can reference [W3Schools](https://www.w3schools.com/tags/default.asp) and [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) to figure out what HTML tags you need.
 11. Some tips to remember when writing HTML:
     - Don't forget to close your HTML tags. For example, if you are using the `em` tag, it needs to be open and closed: `<em>My text will be emphasised</em>`
     - You can nest some elements inside other elements, for example, you can put an emphasis tag inside a paragraph tag: `<p>My paragraph with <em>emphasis</em></p>`
