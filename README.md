@@ -72,25 +72,7 @@ This exercise involves converting an album review from a Google Document into me
 
 # Submit your Exercise
 
-- [ ] [Feedback](feedback.md) has been completed, and committed to git
-- [ ] Commits are pushed to GitHub
+- [ ] Push your code to GitHub by typing `git push`
+- [ ] "Mark as done" in Google Classroom
 
 ---
-
-<details>
-  <summary>
-    Git CLI Refresher
-  </summary>
-
-If you need help remembering what commands to type with `git`, use the following as a reference, or watch the [git walkthrough tutorial video](https://vimeo.com/433825571/bc1830fb90)
-
-```shell
-# when ready to commit and push
-git add .
-
-git commit -m "Completed Part A"
-
-git push origin master
-```
-
-</details>
