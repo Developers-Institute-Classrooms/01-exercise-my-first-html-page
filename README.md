@@ -76,3 +76,9 @@ This exercise involves converting an album review from a Google Document into me
 - [ ] "Mark as done" in Google Classroom
 
 ---
+
+# Walkthrough Solution Video
+
+- Please attempt the exercise first prior to watching the following solution videos
+- [Part A Walkthrough](https://www.loom.com/share/0664fef1a2624f5e9e8d1ddbca53e95b)
+- [Part B Walkthrough](https://www.loom.com/share/8c7b5899af374921ad36a0eff20f9aa6)
