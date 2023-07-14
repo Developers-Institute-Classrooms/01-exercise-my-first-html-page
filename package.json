@@ -9,7 +9,7 @@
     "validate:html": "html-validate 'Submission/**/*.html'"
   },
   "devDependencies": {
-    "html-validate": "^5.4.1",
+    "html-validate": "^8.0.5",
     "prettier": "^2.3.2",
     "serve": "^12.0.0",
     "stylelint": "^13.13.1",
